@@ -1,0 +1,19 @@
+{
+  "name": "react-chat-ben",
+  "version": "1.0.0",
+  "description": "Sample chat app written in React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudsherpas-gdc/react-chat-ben.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloudsherpas-gdc/react-chat-ben/issues"
+  },
+  "homepage": "https://github.com/cloudsherpas-gdc/react-chat-ben#readme"
+}
