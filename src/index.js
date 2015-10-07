@@ -1,4 +1,4 @@
 import React from 'react';
-import { TestComponent } from './TestComponent';
+import { ChatApp } from './ChatApp';
 
-React.render(<TestComponent />, document.getElementById('root'));
+React.render(<ChatApp />, document.getElementById('root'));
